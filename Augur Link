@@ -1,0 +1,6 @@
+ ec2-54-186-51-43.us-west-2.compute.amazonaws.com
+
+We tried for hours to get augur downloaded on our ec2 server before the deadline, but never could get it to work.  We will have it done before next weeks sprint.  The issue we were having
+was the server running out of space when downloading tensorflow.  I tried to follow some instructions in the slack, but they wouldn't work for me.  I added more space to the server
+but they said it wouldn't fully update until later tonight or tomorrow, so that's why we had to give up for now.   Hopefully you all understand and I would try to get 
+help today from professor goggins but he's out today.
