@@ -1,0 +1,9 @@
+http://ec2-34-212-159-36.us-west-2.compute.amazonaws.com:8888/ 
+password: augur
+
+I'm having issues connecting to this database
+{    “connection_string”: “sqlite:///:memory:“,    “database”: “augur_osshealth”,    “host”: “augur.osshealth.io”,    “password”: “covfefe2020",    “port”: 5432,    “schema”: “augur_data”,    “user”: “chaoss”,    “user_type”: “read_only”   }
+you provided, mainly probably because I don't know how.
+
+In the jupyter notebook, in the MyNotebooks directory, in the notebook titled Contributor_collector, you can see my attempt at connecting to it with pypyodbc.  I'm not sure what the issue is or if there's
+a different way I should be connecting.  I sent you a slack message (Ben Bradshaw) but haven't heard back, in the next day or two if you see it I'd really appreciate some help and I'm happy to get it working.
