@@ -1,4 +1,4 @@
-# Group1-Final-Project
+# Contributor-Quality-Augur
 
 What we did for sprint 4:  On the augur repository, we collected data on pull requrest events, pull comitt events, and issue events which is what we outlined in our design document.  
 
